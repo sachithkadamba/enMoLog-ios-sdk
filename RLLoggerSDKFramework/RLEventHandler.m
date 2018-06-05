@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
-//#import <RLLogger/RLLogger-Swift.h>
-#import <RLLoggerSDKFramework/RLLoggerSDKFramework-Swift.h>
+#import <RLLogger/RLLogger-Swift.h>
+//#import <RLLoggerSDKFramework/RLLoggerSDKFramework-Swift.h>
 
 
 @implementation UIApplication (EventAutomator)
