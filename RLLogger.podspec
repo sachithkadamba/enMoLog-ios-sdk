@@ -15,19 +15,18 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "RLLogger"
-  s.version      = "0.0.4"
-  s.summary      = "A short description of RLLogger."
+  s.name         = "enMoLog"
+  s.version      = "0.0.5"
+  s.summary      = "capture iPhone app logs in your browser at realtime"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "RLLogger description"
+  s.description  = "enMoLog description"
 
-  s.homepage     = "http://this/RLLogger"
-  # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
+  s.homepage     = "http://enMoLog.enwidth.com"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -52,8 +51,6 @@ Pod::Spec.new do |s|
   #
 
   s.author             = { "sachith" => "sachithkadamba@gmail.com" }
-  # Or just: s.author    = "sachith"
-  # s.social_media_url   = "http://twitter.com/sachith"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
